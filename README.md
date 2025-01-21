@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zainal-arifin-fadliansyah-97673b128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zainal-arifin-fadliansyah-97673b128" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zainal-arifin-fadliansyah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zainal-arifin-fadliansyah-97673b128" height="30" width="40" /></a>
 <a href="https://fb.com/zainal arifin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zainal arifin" height="30" width="40" /></a>
 <a href="https://instagram.com/zzainal_ari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zzainal_ari" height="30" width="40" /></a>
 </p>
