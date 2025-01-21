@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **java and web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zzainalAri](https://github.com/zzainalAri)
-
 - 💬 Ask me about **Fullstack**
 
 - 📫 How to reach me **zainalfadliansyah@gmail.com**
